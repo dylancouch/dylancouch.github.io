@@ -14,7 +14,7 @@ Then open <http://localhost:8000>.
 
 ## Publish
 
-The site uses only `index.html`, `styles.css`, and local image assets. GitHub Pages is configured to deploy the repository root from the `main` branch; no build step is required.
+The site uses only `index.html`, `styles.css`, and local image assets. Browser icons are provided in `favicon.svg` and `favicon.png`. GitHub Pages is configured to deploy the repository root from the `main` branch; no build step is required.
 
 ## Content and assets
 
